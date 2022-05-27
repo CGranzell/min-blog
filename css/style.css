@@ -1,0 +1,40 @@
+.btn-primary {
+  margin-left: 70%;
+  margin-top: 1rem;
+}
+.btn-form {
+  margin-left: 0;
+}
+
+.btn-add {
+  margin-left: 75%;
+}
+
+.list-group-item {
+  background-color: beige;
+}
+
+.table {
+  width: 80%;
+  border: 1px solid black;
+}
+.tbody {
+  border: 1px solid black;
+}
+
+.mb-3 {
+  width: 80%;
+}
+
+.message {
+  width: 80%;
+}
+
+.footer {
+  height: 10em;
+}
+
+.footer h3 {
+  margin-top: 1.5em;
+  color: black;
+}
